@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DigitalJibe
-- 👀 I’m interested in Digital Experience Platform development (DXP), Web Development, eLearning, Digital Marketing Automation, Data Analytics, Blockchain and Cryptocurrency Technologies. 
+- 👀 I’m interested in Digital Experience Platform Development (DXP), Web Development, eLearning, Digital Marketing Automation, Data Analytics, Blockchain and Cryptocurrency Technologies. 
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...blockchain and cryptocurrency technology training, usage, and adoption. 
 - 📫 How to reach me ... david@digitaljibe.com
